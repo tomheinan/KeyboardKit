@@ -43,6 +43,7 @@ public enum KeyboardLocale: String,
     case dutch_belgium = "nl_BE"
     case english_gb = "en_GB"
     case english_us = "en_US"
+    case esperanto = "eo"
     case estonian = "et"
     case faroese = "fo"
     case filipino = "fil"

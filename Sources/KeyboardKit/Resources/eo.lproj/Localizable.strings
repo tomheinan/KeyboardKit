@@ -1,0 +1,30 @@
+/*
+ Localizable.strings
+ KeyboardKit
+ 
+ Created by Tom Heinan on 2023-12-25.
+ Copyright © 2023 Daniel Saidi. All rights reserved.
+ */
+
+"locale" = "eo";
+
+"continue" = "daŭrigi";
+"done" = "finita";
+"emergencyCall" = "Krisvoko";
+"go" = "iri";
+"join" = "aliĝi";
+"next" = "sekva";
+"ok" = "okej";
+"return" = "reveni";
+"route" = "navigi";
+"search" = "serĉi";
+"send" = "sendi";
+"space" = "spaco";
+"switcherAlphabetic" = "ABC";
+"switcherNumeric" = "123";
+"switcherSymbolic" = "#+=";
+
+/**
+ For emojis localization, copy the text in `Emojis.md`, then
+ replace this comment with it and translate the keys.
+ */

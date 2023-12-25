@@ -30,6 +30,7 @@ public extension KeyboardLocale {
         case .english: return "🇺🇸"
         case .english_gb: return "🇬🇧"
         case .english_us: return "🇺🇸"
+        case .esperanto: return "⭐️" // Unicode proposal for EO flag has not yet been approved
         case .estonian: return "🇪🇪"
         case .faroese: return "🇫🇴"
         case .filipino: return "🇵🇭"
