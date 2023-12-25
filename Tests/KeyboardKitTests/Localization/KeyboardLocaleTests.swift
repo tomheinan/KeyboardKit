@@ -36,6 +36,7 @@ class KeyboardLocaleTests: XCTestCase {
             .english: "en",
             .english_gb: "en_GB",
             .english_us: "en_US",
+            .esperanto: "eo",
             .estonian: "et",
             .faroese: "fo",
             .filipino: "fil",

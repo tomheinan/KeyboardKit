@@ -30,6 +30,7 @@ class KeyboardLocale_FlagTests: XCTestCase {
             .english: "🇺🇸",
             .english_gb: "🇬🇧",
             .english_us: "🇺🇸",
+            .esperanto: "⭐️",
             .estonian: "🇪🇪",
             .faroese: "🇫🇴",
             .filipino: "🇵🇭",
